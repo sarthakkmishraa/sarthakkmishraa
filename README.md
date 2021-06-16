@@ -10,9 +10,6 @@
 - 💬 Ask me about anything, I'm happy to help! 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarthakkmishraa&show_icons=true" alt="Sarthak" /> </p>
-
-
 <!--
 **sarthakkmishraa/sarthakkmishraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
