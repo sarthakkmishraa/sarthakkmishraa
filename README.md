@@ -5,7 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/sarthakkmishraa-30302f?style=flat&logo=gmail)](mailto:sarthakkmishraa@gmail.com)
 
 
-- 🔭 I am a Data Science and Machine Learning Enthusiast who loves to analyse datasets and improve predictions for profitable use cases.
+- 🔭 Working as a Java Developer. I love exploring and learning something new about tech. 
+-     Skills : Coding I Data Science I ML
 - 👯 I am willing to collaborate on projects and hackathons.
 - 💬 Ask me about anything, I'm happy to help! 
 
