@@ -6,7 +6,7 @@
 
 
 - 🔭 Working as a Java Developer. I love exploring and learning something new about tech. 
--     Skills : Coding I Data Science I ML
+-     Skills : Coding, Data Science and ML
 - 👯 I am willing to collaborate on projects and hackathons.
 - 💬 Ask me about anything, I'm happy to help! 
 
